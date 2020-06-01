@@ -1,0 +1,45 @@
+.image {
+  border-radius: 10px;
+  height: 400px !important;
+}
+
+.descp {
+  font-size: 20px;
+  line-height: 15px;
+  display: flex !important;
+  justify-content: center;
+}
+
+body icon {
+  cursor: pointer !important;
+}
+body .faUserBlocked{
+  cursor: pointer !important;
+  color: rgb(161, 7, 7) !important;
+}
+body .faHeartLikeMe {
+  cursor: pointer !important;
+  color:  #17a2b8 !important;
+}
+body .faComment {
+  cursor: pointer !important;
+  color:  rgb(0,128,0) !important;
+}
+
+body .faHeartLiked {
+  cursor: pointer !important;
+  color: rgb(161, 7, 7) !important;
+} 
+.faHeartLiked:hover{
+    animation: beat .25s infinite alternate;
+}
+@keyframes beat{
+  to { transform: scale(1.4); }
+}
+
+.mytags-main {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  overflow-y: auto;
+  max-height: 150px !important;
+}

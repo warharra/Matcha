@@ -1,0 +1,19 @@
+--------------- SUPER MEGA IMPORTANT POUR CORRECTION ! -------------------
+
+## DEL .env in .gitignore before push to vogsphere !!!!!
+## CLEAN DB (Message, LastMessage, photos reals users, visit, blocked,... ALL SAUF USER )
+
+--------------- IMPORTANT ! -------------------
+
+### [FRONT] profile user test n'aparaissent pas dans page user Match 
+
+--------------- TEST ! -------------------
+
+--> TESTER AU MAX TOUTES LES NOTIFS
+--> Tester les cas à NULL (par exemple user sans match, puis avec 1 et + de match, ...)
+--> Double message envoi/reception Message ?
+--> TESTER SUR CHROME ET FIREFOX (STYLES)
+## [FRONT / BACK] - CLEAN CONSOLE
+
+-----------------Not important--------------
+## [GLOBAL] - finish README.md
