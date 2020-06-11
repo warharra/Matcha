@@ -2,8 +2,8 @@
 
 This project is about creating a dating website.
 A user will be able to register, connect, fill his/her profile, search and look into the profile of other users, chat with those that "liked" back and more !
-![alt text](http://https://github.com/warharra/Matcha.git/img1.png
-[alt text](http://https://github.com/warharra/Matcha.git/img2.png
+![alt text](https://github.com/warharra/Matcha/blob/master/img1.png)
+![alt text](https://github.com/warharra/Matcha/blob/master/img1.png)
 
 ## Getting Started
 
