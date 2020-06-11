@@ -1,9 +1,9 @@
 # Matcha
 
 This project is about creating a dating website.
-A user will be able to register, connect, fill his/her profile, search and look into the profile of other users, chat with those that "liked" back and more !,imi
-<img src="http://https://github.com/warharra/Matcha.git/img1" alt="Page Prfil et match" />
-<img src="http://https://github.com/warharra/Matcha.git/img2" alt="Page Popularite et Chat" />
+A user will be able to register, connect, fill his/her profile, search and look into the profile of other users, chat with those that "liked" back and more !
+![alt text](http://https://github.com/warharra/Matcha.git/img1.png
+[alt text](http://https://github.com/warharra/Matcha.git/img2.png
 
 ## Getting Started
 
